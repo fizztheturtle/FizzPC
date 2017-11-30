@@ -10,7 +10,7 @@ import random
 
 from TranspositionCipher import *
 from caesarCipher2 import *
-from testingEncryption import *
+from AffineCipher import *
 
 
 def main():
